@@ -1,0 +1,6 @@
+*.txt
+*.exe
+*.out
+.vscode/
+.cph/
+*~
